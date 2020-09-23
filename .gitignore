@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Sep 22 20:14:49 2020
+
+@author: bigal
+"""
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+data/
+# Jupyter Notebook
+.ipynb_checkpoints
