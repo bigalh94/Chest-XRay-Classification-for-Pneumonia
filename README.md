@@ -1,5 +1,5 @@
 # IEEE CIS Credit Card Fraud Detection
-<img src="file://sample_img/NORMAL-179015-0001.jpeg" width="240" hight="240">![chest-x-ray-02](sample_img/NORMAL-183773-0001.jpeg)![chest-x-ray-02](sample_img/NORMAL-202916-0003.jpeg)![chest-x-ray-02](sample_img/NORMAL-87870-0001.jpeg)
+<img src="file://sample_img/NORMAL-179015-0001.jpeg" width="100" hight="100">
 ### Author: Alvaro Henriquez
 ## Introduction
 
