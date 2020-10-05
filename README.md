@@ -1,5 +1,5 @@
 # IEEE CIS Credit Card Fraud Detection
-<img src="file://sample_img/NORMAL-179015-0001.jpeg" width="100" hight="100">
+<img src="https://github.com/bigalh94/Chest-XRay-Classification-for-Pneumonia/blob/master/sample_img/NORMAL-179015-0001.jpeg" width="100" hight="100">
 ### Author: Alvaro Henriquez
 ## Introduction
 
