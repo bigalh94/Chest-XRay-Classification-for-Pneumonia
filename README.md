@@ -9,7 +9,7 @@ In this proof of concept (POC) we build several different models and compare the
 The dataset comes from Kermany et al. on [Mendeley](https://data.mendeley.com/datasets/rscbjbr9sj/3). There is also a version on [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia) which is a subset of the Mendeley dataset. However, the code for downloading the dataset is included in the Jupyter Notebook titled `01-Project_setup.ipynb`.
 
 ## Requirements
-This project was created using Google Colab. All of the required libraries are included in the Colab environment except for `Baysian-Optimization`. This is also taken care of by `01-Project_setup.ipynb`, which installs the library with `pip install bayesian-optimization` as the first line of code in the notebook.
+This project was created using Google Colab. All of the required libraries are included in the Colab environment except for `Baysian-Optimization`. This is also taken care of by `01-Project_setup.ipynb`, which installs the library with `pip install bayesian-optimization` as the first line of code in the notebook. You will need a Google account in order to use Colab.
 <p></p>
 
 
